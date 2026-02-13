@@ -17,19 +17,19 @@ The dataset consists of **40 demographic and employment-related features** extra
 
 ## 2. Project Structure
 
-census-income-ml-project/
-│
-├── data/
-│ ├── census-bureau.data
-│ └── census-bureau.columns
-│
-├── src/
-│ ├── data_preprocessing.py
-│ ├── classification.py
-│ ├── segmentation.py
-│
-├── requirements.txt
-├── README.md
+census-income-ml-project/<br>
+│<br>
+├── data/<br>
+│ ├── census-bureau.data<br>
+│ └── census-bureau.columns<br>
+│<br>
+├── src/<br>
+│ ├── data_preprocessing.py<br>
+│ ├── classification.py<br>
+│ ├── segmentation.py<br>
+│<br>
+├── requirements.txt<br>
+├── README.md<br>
 
 
 ---
