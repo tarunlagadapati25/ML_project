@@ -94,8 +94,8 @@ Identify high-income individuals for premium product targeting.
 
 ### Segmentation model helps:
 
-Personalize marketing campaigns
-Identify demographic clusters
+Personalize marketing campaigns\t
+Identify demographic clusters\t
 Allocate advertising budget efficiently
 
 # 7. Requirements
