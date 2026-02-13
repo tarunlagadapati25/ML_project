@@ -22,6 +22,13 @@ census-income-ml-project/<br>
 ├── data/<br>
 │ ├── census-bureau.data<br>
 │ └── census-bureau.columns<br>
+|
+|── outputs/<br>
+|    ├── classification_results.txt<br>
+│    └── cluster_distribution.txt<br>
+|    ├── cluster_visualization.png<br>
+│    └── confusion_matrix.png<br>
+|    
 │<br>
 ├── src/<br>
 │ ├── data_preprocessing.py<br>
