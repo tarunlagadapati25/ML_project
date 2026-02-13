@@ -84,19 +84,19 @@ python segmentation.py
 ```
 
 Expected Output:
-Cluster distribution information
+`Cluster distribution information`
 
 # 6. Business Application
 
 ### Classification model helps:
 
-Identify high-income individuals for premium product targeting.
+`Identify high-income individuals for premium product targeting.`
 
 ### Segmentation model helps:
 
-Personalize marketing campaigns<br>
-Identify demographic clusters<br>
-Allocate advertising budget efficiently
+`Personalize marketing campaigns<br>`
+`Identify demographic clusters<br>`
+`Allocate advertising budget efficiently`
 
 # 7. Requirements
 
