@@ -41,8 +41,8 @@ census-income-ml-project/<br>
 Copy and paste in your terminal:
 
 ```bash
-git clone https://github.com/yourusername/census-income-ml-project.git
-cd census-income-ml-project
+git clone https://github.com/tarunlagadapati25/ML_project.git
+cd ML_project
 ```
 ### 3.2 Create a virtual environment
 
@@ -94,9 +94,9 @@ Expected Output:
 
 ### Segmentation model helps:
 
-`Personalize marketing campaigns<br>`
-`Identify demographic clusters<br>`
-`Allocate advertising budget efficiently`
+Personalize marketing campaigns<br>
+Identify demographic clusters<br>
+Allocate advertising budget efficiently
 
 # 7. Requirements
 
