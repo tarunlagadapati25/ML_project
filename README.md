@@ -44,7 +44,7 @@ Copy and paste in your terminal:
 git clone https://github.com/yourusername/census-income-ml-project.git
 cd census-income-ml-project
 ```
-###3.2 Create a virtual environment
+### 3.2 Create a virtual environment
 
 Mac/Linux:
 ```bash
@@ -57,13 +57,13 @@ Windows:
 python -m venv venv
 venv\Scripts\activate
 ```
-###3.3 Install dependencies
+### 3.3 Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-#4. Running the Models
-###4.1 Classification Model
+# 4. Running the Models
+### 4.1 Classification Model
 ```bash
 cd src
 python classification.py
@@ -77,7 +77,7 @@ Precision, Recall, F1-score
 
 
 
-###4.2 Segmentation Model
+### 4.2 Segmentation Model
 ```bash
 cd src
 python segmentation.py
@@ -86,19 +86,19 @@ python segmentation.py
 Expected Output:
 Cluster distribution information
 
-#6. Business Application
+# 6. Business Application
 
-###Classification model helps:
+### Classification model helps:
 
 Identify high-income individuals for premium product targeting.
 
-###Segmentation model helps:
+### Segmentation model helps:
 
 Personalize marketing campaigns
 Identify demographic clusters
 Allocate advertising budget efficiently
 
-#7. Requirements
+# 7. Requirements
 
 ```bash
 pandas
@@ -108,6 +108,6 @@ matplotlib
 seaborn
 jupyter
 ```
-#8. Author
+# 8. Author
 
 Tarun Lagadapati.
